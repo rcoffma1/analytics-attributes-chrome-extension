@@ -1,0 +1,8 @@
+{
+  "name": "Analytics Data Attributes",
+  "description": "See all of the Analytics Data Attributes on the page.",
+  "version": "0.1",
+  "minimum_chrome_version": "16.0.884",
+  "browser_action": {"default_popup": "popup.html"},
+  "manifest_version": 2
+}
